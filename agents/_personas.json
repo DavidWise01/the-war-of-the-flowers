@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "theo-vilmos",
+    "name": "Theo Vilmos",
+    "epithet": "the going-nowhere musician",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Theo Vilmos:WOF:6868cc⟧"
+  },
+  {
+    "slug": "applecore",
+    "name": "Applecore",
+    "epithet": "the six-inch sprite",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Applecore:WOF:1a1083⟧"
+  },
+  {
+    "slug": "faerie-the-city",
+    "name": "Faerie",
+    "epithet": "the dark mirror city",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Faerie:WOF:9778b1⟧"
+  },
+  {
+    "slug": "the-flower-houses",
+    "name": "The Flower-Houses",
+    "epithet": "families with dragon-bombs",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Flower-Houses:WOF:6ac039⟧"
+  },
+  {
+    "slug": "the-three-factions",
+    "name": "The Three Factions",
+    "epithet": "coexist, exterminate, undecided",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Three Factions:WOF:1e947b⟧"
+  }
+]
