@@ -4,6 +4,6 @@ slug  : the-war-of-the-flowers
 seal  : 37b847d0ac013a69100a27d550e346088c99c39157d9b388005054d310063696
 prev  : 5ff0ecaba07045cff308401de00456893c71c3b1b19edb85d634446dc027b310
 link  : e2cf86b2558aa2e73a8c2323ce435edfb52383506e677461127f13bea5df0509
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
